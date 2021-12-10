@@ -14,9 +14,6 @@ Choose Office Products '5-core' (800,357 reviews)
 For the Arts, Crafts and Sewing data set, you will want to use the following:
 * Arts, Crafts and Sewing '5-core' (494,485 reviews)
 
-Associated Presentation:
-https://docs.google.com/presentation/d/1kdbwlgVNDlQfLTfpNIdr3jnpfcJ1OBLuLPV5TJ3Pj1g/edit?usp=sharing
-
 References:
 * https://www.datacamp.com/community/tutorials/discovering-hidden-topics-python
 * https://nijianmo.github.io/amazon/index.html#sample-metadata
